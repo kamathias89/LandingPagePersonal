@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vitoriamendespersonal.github.io/sitemap.xml
